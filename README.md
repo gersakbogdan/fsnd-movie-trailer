@@ -18,3 +18,7 @@ Project 1 - Movie Trailer Website
 
 * <https://twitter.com/gersakbogdan>
 * <https://github.com/gersakbogdan>
+
+**Udacity**
+
+* <https://www.udacity.com>
