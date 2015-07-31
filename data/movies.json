@@ -1,42 +1,49 @@
 [
     {
       "title": "Avatar",
+      "year": "2009",
       "storyline": "A paraplegic marine dispatched to the moon Pandora on a unique mission becomes torn between following his orders and protecting the world he feels is his home.",
       "poster_image_url": "https://upload.wikimedia.org/wikipedia/en/b/b0/Avatar-Teaser-Poster.jpg",
       "trailer_youtube_url": "https://www.youtube.com/watch?v=5PSNL1qE6VY"
     },
     {
-      "title": "Barfi",
+      "title": "Barfi!",
+      "year": "2012",
       "storyline": "Three young people learn that love can neither be defined nor contained by society's norms of normal and abnormal.",
       "poster_image_url": "https://upload.wikimedia.org/wikipedia/en/2/2e/Barfi%21_poster.jpg",
       "trailer_youtube_url": "https://www.youtube.com/watch?v=yZxrao3zou4"
     },
     {
       "title": "The Imitation Game",
+      "year": "2014",
       "storyline": "During World War II, mathematician Alan Turing tries to crack the enigma code with help from fellow mathematicians.",
       "poster_image_url": "http://ia.media-imdb.com/images/M/MV5BNDkwNTEyMzkzNl5BMl5BanBnXkFtZTgwNTAwNzk3MjE@._V1_SY317_CR0,0,214,317_AL_.jpg",
       "trailer_youtube_url": "https://www.youtube.com/watch?v=S5CjKEFb-sM"
     },
     {
       "title": "3 Idiots",
+      "year": "2009",
       "storyline": "Two friends are searching for their long lost companion. They revisit their college days and recall the memories of their friend who inspired them to think differently, even as the rest of the world called them 'idiots'.",
       "poster_image_url": "https://upload.wikimedia.org/wikipedia/en/d/df/3_idiots_poster.jpg",
       "trailer_youtube_url": "https://www.youtube.com/watch?v=xvszmNXdM4w"
     },
     {
       "title": "Gladiator",
+      "year": "2000",
       "storyline": "When a Roman general is betrayed and his family murdered by an emperor's corrupt son, he comes to Rome as a gladiator to seek revenge.",
       "poster_image_url": "https://upload.wikimedia.org/wikipedia/en/8/8d/Gladiator_ver1.jpg",
       "trailer_youtube_url": "https://www.youtube.com/watch?v=uwTKRz-WmHU"
     },
     {
       "title": "Dirty Dancing",
+      "year": "1987",
       "storyline": "Spending the summer in a holiday camp with her family, Frances 'Baby' Houseman falls in love with the camp's dance instructor Johnny Castle.",
       "poster_image_url": "https://upload.wikimedia.org/wikipedia/en/0/00/Dirty_Dancing.jpg",
       "trailer_youtube_url": "https://www.youtube.com/watch?v=wcra0-0Gu4U"
     },
     {
       "title": "Notting Hill",
+      "year": "1999",
       "storyline": "The life of a simple bookshop owner changes when he meets the most famous film star in the world.",
       "poster_image_url": "https://upload.wikimedia.org/wikipedia/en/3/38/NottingHillRobertsGrant.jpg",
       "trailer_youtube_url": "https://www.youtube.com/watch?v=4RI0QvaGoiI"
