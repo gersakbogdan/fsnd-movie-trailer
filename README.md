@@ -1,4 +1,4 @@
-# Udacity FSND - Movie trailer Website Project
+## Udacity FSND - Movie trailer Website Project
 Project 1 - Movie Trailer Website
 
 ### Running locally
