@@ -8,7 +8,7 @@ Project 1 - Movie Trailer Website
 3. Clone repository: `git clone https://github.com/gersakbogdan/fsnd-movie-trailer fsnd-movie-trailer`
 3. From the root `/fsnd-movie-trailer` directory, run `python server.py` in the command line.
 
-## Creators
+### Creators
 
 **Bogdan Gersak**
 
