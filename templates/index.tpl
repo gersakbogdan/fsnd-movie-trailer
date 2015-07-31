@@ -7,5 +7,7 @@
     {modal_template}
     <!-- Main Page Content -->
     {main_template}
+    <!-- Footer -->
+    {footer_template}
   </body>
 </html>

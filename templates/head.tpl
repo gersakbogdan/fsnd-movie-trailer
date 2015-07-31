@@ -1,6 +1,6 @@
 <head>
     <meta charset="utf-8">
-    <title>Fresh Tomatoes!</title>
+    <title>FSND Movie Trailer</title>
 
     <!-- Bootstrap 3 -->
     <link rel="stylesheet" href="https://netdna.bootstrapcdn.com/bootstrap/3.1.0/css/bootstrap.min.css">
