@@ -1,4 +1,4 @@
-# Udacity - FSND - Movie trailer Website
+# Udacity FSND - Movie trailer Website Project
 Project 1 - Movie Trailer Website
 
 ### Running locally
@@ -14,7 +14,3 @@ Project 1 - Movie Trailer Website
 
 * <https://twitter.com/gersakbogdan>
 * <https://github.com/gersakbogdan>
-
-**Udacity**
-
-* <https://github.com/udacity>
